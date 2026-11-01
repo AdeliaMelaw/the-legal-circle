@@ -1,5 +1,71 @@
 [
   {
+    "slug": "trump-wsj-defamation-dismissal-actual-malice",
+    "headline": "Trump’s Wall Street Journal Suit Dismissed: Why a Denial Was Not Enough",
+    "seoTitle": "Trump WSJ Suit Dismissed: Actual Malice Explained",
+    "metaDescription": "A judge dismissed Trump’s WSJ defamation suit for insufficient actual-malice allegations, without deciding who wrote the disputed Epstein letter.",
+    "excerpt": "Does publishing a disputed story after its subject denies it establish actual malice?",
+    "contentType": "analysis",
+    "category": "Legal Developments",
+    "jurisdiction": "United States; Canadian defamation-law comparison",
+    "tags": [
+      {
+        "name": "Trump WSJ defamation lawsuit",
+        "slug": "trump-wsj-defamation-lawsuit"
+      },
+      {
+        "name": "actual malice pleading standard",
+        "slug": "actual-malice-pleading-standard"
+      },
+      {
+        "name": "defamation dismissal with prejudice",
+        "slug": "defamation-dismissal-with-prejudice"
+      },
+      {
+        "name": "Trump Epstein letter lawsuit",
+        "slug": "trump-epstein-letter-lawsuit"
+      },
+      {
+        "name": "public figure defamation",
+        "slug": "public-figure-defamation"
+      },
+      {
+        "name": "press freedom",
+        "slug": "press-freedom"
+      }
+    ],
+    "related": [],
+    "status": "published",
+    "author": {
+      "name": "The Legal Circle",
+      "type": "Organization",
+      "url": "https://thelegalcircle.ca/editorial/"
+    },
+    "published": "2026-11-01T21:12:29Z",
+    "modified": "2026-11-01T21:12:29Z",
+    "featuredImage": {
+      "url": "/assets/the-legal-circle-social-card.png",
+      "alt": "The Legal Circle - Connect. Contribute. Grow.",
+      "width": 1200,
+      "height": 630,
+      "showInArticle": false
+    },
+    "social": {
+      "title": "Trump’s Wall Street Journal Suit Dismissed: Why a Denial Was Not Enough",
+      "description": "A judge dismissed Trump’s WSJ defamation suit for insufficient actual-malice allegations, without deciding who wrote the disputed Epstein letter.",
+      "image": "/assets/the-legal-circle-social-card.png"
+    },
+    "correctionNote": "",
+    "primaryKeyword": "Trump WSJ defamation lawsuit",
+    "secondaryKeywords": [
+      "actual malice pleading standard",
+      "defamation dismissal with prejudice",
+      "Trump Epstein letter lawsuit",
+      "public figure defamation",
+      "press freedom"
+    ]
+  },
+  {
     "slug": "ofcom-online-safety-information-notices-high-court",
     "headline": "UK High Court Upholds Ofcom’s Online-Safety Data Demands",
     "seoTitle": "High Court Upholds Ofcom’s Online-Safety Data Demands",
