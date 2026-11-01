@@ -8,8 +8,13 @@ assert(home.includes('Special offer from Magneo'));
 assert.equal((home.match(/class="tlc-pressfeed-block"/g)||[]).length,4);
 assert(!fs.existsSync('home-test/index.html'), 'Removed test page must not be regenerated');
 assert(home.includes('News and insights that matter to lawyers - from legal developments and AI to marketing and practice growth.'));
+const today=new Intl.DateTimeFormat('en-CA',{timeZone:'America/Toronto',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
+const hasUpcomingEvent=JSON.parse(fs.readFileSync('events/events.json','utf8')).some(event=>event.status==='published'&&(event.startDate?event.startDate.slice(0,10)>=today:event.startMonth>today.slice(0,7)));
 for (const name of ['the-legal-circle-logo', 'lady-justice-supplied', 'finance-law-networking-event-v2']) {
-  assert(home.includes(`/assets/${name}.webp`), `Homepage must use the optimized ${name}`);
+  if(name==='finance-law-networking-event-v2'&&!hasUpcomingEvent) {
+    assert(home.includes('More events to come'), 'Homepage must show the events fallback when no upcoming event exists');
+    assert(!home.includes(`/assets/${name}.webp`), 'Homepage must not retain an expired event image');
+  } else assert(home.includes(`/assets/${name}.webp`), `Homepage must use the optimized ${name}`);
   const webp = fs.readFileSync(`assets/${name}.webp`);
   assert(webp.subarray(0, 4).toString() === 'RIFF' && webp.subarray(8, 12).toString() === 'WEBP', `Invalid WebP: ${name}`);
   assert(webp.length < fs.statSync(`assets/${name}.png`).size, `WebP must be smaller: ${name}`);

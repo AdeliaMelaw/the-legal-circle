@@ -1,5 +1,289 @@
 [
   {
+    "slug": "ofcom-online-safety-information-notices-high-court",
+    "headline": "UK High Court Upholds Ofcom’s Online-Safety Data Demands",
+    "seoTitle": "High Court Upholds Ofcom’s Online-Safety Data Demands",
+    "metaDescription": "Meta, TikTok and X lost challenges to Ofcom’s information notices. The ruling concerns data-gathering powers, not substantive safety breaches.",
+    "excerpt": "A platform does not have to face a finding of an online-safety breach before its regulator can demand information about how its services operate.",
+    "contentType": "analysis",
+    "category": "Legal Developments",
+    "jurisdiction": "United Kingdom; Canadian regulatory-law comparison",
+    "tags": [
+      {
+        "name": "Ofcom information notices ruling",
+        "slug": "ofcom-information-notices-ruling"
+      },
+      {
+        "name": "Online Safety Act",
+        "slug": "online-safety-act"
+      },
+      {
+        "name": "platform regulation",
+        "slug": "platform-regulation"
+      },
+      {
+        "name": "regulatory proportionality",
+        "slug": "regulatory-proportionality"
+      }
+    ],
+    "related": [
+      "stripchat-dsa-ruling-user-count-methodology"
+    ],
+    "status": "published",
+    "author": {
+      "name": "The Legal Circle",
+      "type": "Organization",
+      "url": "https://thelegalcircle.ca/editorial/"
+    },
+    "published": "2026-11-01T15:37:25Z",
+    "modified": "2026-11-01T15:37:25Z",
+    "featuredImage": {
+      "url": "/assets/the-legal-circle-social-card.png",
+      "alt": "The Legal Circle - Connect. Contribute. Grow.",
+      "width": 1200,
+      "height": 630,
+      "showInArticle": false
+    },
+    "social": {
+      "title": "UK High Court Upholds Ofcom’s Online-Safety Data Demands",
+      "description": "Meta, TikTok and X lost challenges to Ofcom’s information notices. The ruling concerns data-gathering powers, not substantive safety breaches.",
+      "image": "/assets/the-legal-circle-social-card.png"
+    },
+    "correctionNote": "",
+    "primaryKeyword": "Ofcom information notices ruling",
+    "secondaryKeywords": [
+      "Online Safety Act",
+      "platform regulation",
+      "regulatory proportionality"
+    ]
+  },
+  {
+    "slug": "canada-immigration-representatives-administrative-penalties",
+    "headline": "Canada Introduces Federal Penalties for Immigration Representatives",
+    "seoTitle": "Canada’s New Penalties for Immigration Representatives",
+    "metaDescription": "New federal penalties apply to paid immigration and citizenship representatives, with response rights, review procedures and planned public listings.",
+    "excerpt": "Paid immigration and citizenship representatives now face a federal administrative penalty system operating alongside professional discipline and criminal enforcement.",
+    "contentType": "analysis",
+    "category": "Legal Developments",
+    "jurisdiction": "Canada",
+    "tags": [
+      {
+        "name": "immigration representative penalties Canada",
+        "slug": "immigration-representative-penalties-canada"
+      },
+      {
+        "name": "IRCC compliance",
+        "slug": "ircc-compliance"
+      },
+      {
+        "name": "unauthorized immigration advice",
+        "slug": "unauthorized-immigration-advice"
+      },
+      {
+        "name": "immigration lawyer regulation",
+        "slug": "immigration-lawyer-regulation"
+      }
+    ],
+    "related": [],
+    "status": "published",
+    "author": {
+      "name": "The Legal Circle",
+      "type": "Organization",
+      "url": "https://thelegalcircle.ca/editorial/"
+    },
+    "published": "2026-11-01T15:37:25Z",
+    "modified": "2026-11-01T15:37:25Z",
+    "featuredImage": {
+      "url": "/assets/the-legal-circle-social-card.png",
+      "alt": "The Legal Circle - Connect. Contribute. Grow.",
+      "width": 1200,
+      "height": 630,
+      "showInArticle": false
+    },
+    "social": {
+      "title": "Canada Introduces Federal Penalties for Immigration Representatives",
+      "description": "New federal penalties apply to paid immigration and citizenship representatives, with response rights, review procedures and planned public listings.",
+      "image": "/assets/the-legal-circle-social-card.png"
+    },
+    "correctionNote": "",
+    "primaryKeyword": "immigration representative penalties Canada",
+    "secondaryKeywords": [
+      "IRCC compliance",
+      "unauthorized immigration advice",
+      "immigration lawyer regulation"
+    ]
+  },
+  {
+    "slug": "california-sb399-workplace-meetings-injunction",
+    "headline": "Ninth Circuit Keeps California’s Workplace-Meeting Law Blocked",
+    "seoTitle": "California Workplace-Meeting Law Remains Blocked",
+    "metaDescription": "The Ninth Circuit upheld a preliminary injunction against California’s SB 399 on speech grounds, leaving the federal pre-emption question unresolved.",
+    "excerpt": "California’s protection for workers who decline certain employer meetings remains blocked after a federal appeals court found that challengers were likely to succeed on their free-speech claim.",
+    "contentType": "analysis",
+    "category": "Legal Developments",
+    "jurisdiction": "United States; Canadian employment-law comparison",
+    "tags": [
+      {
+        "name": "California SB 399 injunction",
+        "slug": "california-sb-399-injunction"
+      },
+      {
+        "name": "employer speech rights",
+        "slug": "employer-speech-rights"
+      },
+      {
+        "name": "mandatory workplace meetings",
+        "slug": "mandatory-workplace-meetings"
+      },
+      {
+        "name": "Ninth Circuit employment law",
+        "slug": "ninth-circuit-employment-law"
+      }
+    ],
+    "related": [],
+    "status": "published",
+    "author": {
+      "name": "The Legal Circle",
+      "type": "Organization",
+      "url": "https://thelegalcircle.ca/editorial/"
+    },
+    "published": "2026-11-01T15:37:25Z",
+    "modified": "2026-11-01T15:37:25Z",
+    "featuredImage": {
+      "url": "/assets/the-legal-circle-social-card.png",
+      "alt": "The Legal Circle - Connect. Contribute. Grow.",
+      "width": 1200,
+      "height": 630,
+      "showInArticle": false
+    },
+    "social": {
+      "title": "Ninth Circuit Keeps California’s Workplace-Meeting Law Blocked",
+      "description": "The Ninth Circuit upheld a preliminary injunction against California’s SB 399 on speech grounds, leaving the federal pre-emption question unresolved.",
+      "image": "/assets/the-legal-circle-social-card.png"
+    },
+    "correctionNote": "",
+    "primaryKeyword": "California SB 399 injunction",
+    "secondaryKeywords": [
+      "employer speech rights",
+      "mandatory workplace meetings",
+      "Ninth Circuit employment law"
+    ]
+  },
+  {
+    "slug": "harvey-aida-acquisition-legal-ai-knowledge",
+    "headline": "Harvey Acquires Aida to Strengthen Firm-Specific Knowledge Systems",
+    "seoTitle": "Harvey Acquires Aida for Firm-Specific AI Knowledge",
+    "metaDescription": "Harvey acquired Aida to support its internal-knowledge strategy. The deal is confirmed; proposed product benefits remain company claims.",
+    "excerpt": "Harvey’s latest acquisition points toward a legal-AI competition increasingly focused on the information inside a firm.",
+    "contentType": "analysis",
+    "category": "AI & Technology",
+    "jurisdiction": "International; Canadian legal technology",
+    "tags": [
+      {
+        "name": "Harvey Aida acquisition",
+        "slug": "harvey-aida-acquisition"
+      },
+      {
+        "name": "legal AI knowledge management",
+        "slug": "legal-ai-knowledge-management"
+      },
+      {
+        "name": "law firm data",
+        "slug": "law-firm-data"
+      },
+      {
+        "name": "legal technology acquisitions",
+        "slug": "legal-technology-acquisitions"
+      }
+    ],
+    "related": [
+      "anthropic-ipo-filing-ftc-demand-ai-liability"
+    ],
+    "status": "published",
+    "author": {
+      "name": "The Legal Circle",
+      "type": "Organization",
+      "url": "https://thelegalcircle.ca/editorial/"
+    },
+    "published": "2026-11-01T15:37:25Z",
+    "modified": "2026-11-01T15:37:25Z",
+    "featuredImage": {
+      "url": "/assets/the-legal-circle-social-card.png",
+      "alt": "The Legal Circle - Connect. Contribute. Grow.",
+      "width": 1200,
+      "height": 630,
+      "showInArticle": false
+    },
+    "social": {
+      "title": "Harvey Acquires Aida to Strengthen Firm-Specific Knowledge Systems",
+      "description": "Harvey acquired Aida to support its internal-knowledge strategy. The deal is confirmed; proposed product benefits remain company claims.",
+      "image": "/assets/the-legal-circle-social-card.png"
+    },
+    "correctionNote": "",
+    "primaryKeyword": "Harvey Aida acquisition",
+    "secondaryKeywords": [
+      "legal AI knowledge management",
+      "law firm data",
+      "legal technology acquisitions"
+    ]
+  },
+  {
+    "slug": "nyc-delivery-worker-deactivation-lawsuit",
+    "headline": "Amazon, Uber and Instacart Challenge NYC Delivery-Worker Deactivation Law",
+    "seoTitle": "Delivery Platforms Challenge NYC Deactivation Law",
+    "metaDescription": "Amazon, Uber and Instacart challenge NYC delivery-worker deactivation rules. The city defended the law in an October 30 response.",
+    "excerpt": "Amazon, Uber and Instacart are challenging New York City’s rules governing when delivery platforms can remove workers’ access to their applications.",
+    "contentType": "analysis",
+    "category": "Legal Developments",
+    "jurisdiction": "United States; Canadian platform-work comparison",
+    "tags": [
+      {
+        "name": "NYC delivery worker deactivation lawsuit",
+        "slug": "nyc-delivery-worker-deactivation-lawsuit"
+      },
+      {
+        "name": "platform worker rights",
+        "slug": "platform-worker-rights"
+      },
+      {
+        "name": "gig economy litigation",
+        "slug": "gig-economy-litigation"
+      },
+      {
+        "name": "delivery app regulation",
+        "slug": "delivery-app-regulation"
+      }
+    ],
+    "related": [],
+    "status": "published",
+    "author": {
+      "name": "The Legal Circle",
+      "type": "Organization",
+      "url": "https://thelegalcircle.ca/editorial/"
+    },
+    "published": "2026-11-01T15:37:25Z",
+    "modified": "2026-11-01T15:37:25Z",
+    "featuredImage": {
+      "url": "/assets/the-legal-circle-social-card.png",
+      "alt": "The Legal Circle - Connect. Contribute. Grow.",
+      "width": 1200,
+      "height": 630,
+      "showInArticle": false
+    },
+    "social": {
+      "title": "Amazon, Uber and Instacart Challenge NYC Delivery-Worker Deactivation Law",
+      "description": "Amazon, Uber and Instacart challenge NYC delivery-worker deactivation rules. The city defended the law in an October 30 response.",
+      "image": "/assets/the-legal-circle-social-card.png"
+    },
+    "correctionNote": "",
+    "primaryKeyword": "NYC delivery worker deactivation lawsuit",
+    "secondaryKeywords": [
+      "platform worker rights",
+      "gig economy litigation",
+      "delivery app regulation"
+    ]
+  },
+  {
     "slug": "weil-gotshal-wind-down-recommendation",
     "headline": "Weil Leaders Recommend Wind-Down: What Clients Should Ask Next",
     "seoTitle": "Weil Leaders Recommend Wind-Down; Partnership Vote Pending",
