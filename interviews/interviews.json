@@ -138,5 +138,33 @@
       "role": "Employment lawyer · Founder, Pelsmakher Law",
       "portrait": "/assets/simon-pelsmakher.webp"
     }
+  },
+  {
+    "slug": "jordana-goldlist-criminal-law",
+    "path": "/interviews/jordana-goldlist-criminal-law/",
+    "status": "published",
+    "contentType": "interview",
+    "format": "written",
+    "video": null,
+    "headline": "The System Is Designed to Keep People Stuck.",
+    "seoTitle": "Interview: Jordana Goldlist on Criminal Defence and Visibility | The Legal Circle",
+    "metaDescription": "Jordana H. Goldlist on founding JHG Criminal Law, questioning the criminal justice system, social media visibility and being unapologetic about defence work.",
+    "excerpt": "Six questions with Jordana H. Goldlist on criminal defence, building her firm and questioning the justice system.",
+    "published": "2026-11-01T23:30:48Z",
+    "modified": "2026-11-01T23:30:48Z",
+    "interviewer": {
+      "name": "Adele Salikhova",
+      "url": "https://thelegalcircle.ca/about/adele-salikhova/"
+    },
+    "author": {
+      "name": "Adele Salikhova",
+      "type": "Person",
+      "url": "https://thelegalcircle.ca/about/adele-salikhova/"
+    },
+    "guest": {
+      "name": "Jordana H. Goldlist",
+      "role": "Criminal defence · Founder, JHG Criminal Law",
+      "portrait": "/assets/jordana-goldlist.webp"
+    }
   }
 ]
