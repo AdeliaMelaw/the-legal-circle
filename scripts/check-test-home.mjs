@@ -4,7 +4,7 @@ const home=fs.readFileSync('index.html','utf8');
 assert(!home.includes('noindex'));
 assert(home.includes('Pressfeed') && home.includes('tlc-justice-artwork'));
 assert(home.includes('class="tlc-news-dropdown tlc-marketing-dropdown"'));
-assert(home.includes('Special offer from Magneo'));
+assert(home.includes('Special offer for lawyers'));
 assert.equal((home.match(/class="tlc-pressfeed-block"/g)||[]).length,4);
 assert(!fs.existsSync('home-test/index.html'), 'Removed test page must not be regenerated');
 assert(home.includes('News and insights that matter to lawyers - from legal developments and AI to marketing and practice growth.'));
