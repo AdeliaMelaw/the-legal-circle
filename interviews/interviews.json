@@ -166,5 +166,33 @@
       "role": "Criminal defence · Founder, JHG Criminal Law",
       "portrait": "/assets/jordana-goldlist.webp"
     }
+  },
+  {
+    "slug": "david-girard-calgary-office-leader",
+    "path": "/interviews/david-girard-calgary-office-leader/",
+    "status": "published",
+    "contentType": "interview",
+    "format": "written",
+    "video": null,
+    "headline": "The First Thing I Did Was Leave Things Alone.",
+    "seoTitle": "Interview: David Girard on Leadership and Access to Justice | The Legal Circle",
+    "metaDescription": "David Girard on leading Dolden’s Calgary office, self-regulation, access to justice and the value of appellate experience.",
+    "excerpt": "Six questions with David Girard on leading a Calgary office, self-regulation, access to justice and appellate work.",
+    "published": "2026-11-02T21:11:06Z",
+    "modified": "2026-11-02T21:11:06Z",
+    "interviewer": {
+      "name": "Adele Salikhova",
+      "url": "https://thelegalcircle.ca/about/adele-salikhova/"
+    },
+    "author": {
+      "name": "Adele Salikhova",
+      "type": "Person",
+      "url": "https://thelegalcircle.ca/about/adele-salikhova/"
+    },
+    "guest": {
+      "name": "David Girard",
+      "role": "Partner and Calgary Office Leader · Dolden Wallace Folick LLP",
+      "portrait": "/assets/david-girard.jpg"
+    }
   }
 ]
