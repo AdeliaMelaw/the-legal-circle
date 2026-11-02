@@ -1,5 +1,76 @@
 [
   {
+    "slug": "alaska-election-lawsuit-ballot-secrecy-standing",
+    "headline": "Alaska Election Lawsuit Dismissed: Why Ballot Secrecy Defeated DOJ’s Proposed Remedy",
+    "seoTitle": "Alaska Election Lawsuit Dismissed Over Ballot Secrecy",
+    "metaDescription": "A judge dismissed DOJ’s Alaska Senate election lawsuit for lack of standing. The ruling addresses ballot secrecy and remedies, not proven voter confusion.",
+    "excerpt": "A ballot records a choice. Can a court investigate whether the voter meant to choose someone else?",
+    "contentType": "analysis",
+    "category": "Legal Developments",
+    "jurisdiction": "United States; Canadian litigation comparison",
+    "tags": [
+      {
+        "name": "Alaska election lawsuit",
+        "slug": "alaska-election-lawsuit"
+      },
+      {
+        "name": "ballot secrecy",
+        "slug": "ballot-secrecy"
+      },
+      {
+        "name": "Article III standing",
+        "slug": "article-iii-standing"
+      },
+      {
+        "name": "redressability",
+        "slug": "redressability"
+      },
+      {
+        "name": "same-name Senate candidates",
+        "slug": "same-name-senate-candidates"
+      },
+      {
+        "name": "DOJ Alaska appeal",
+        "slug": "doj-alaska-appeal"
+      },
+      {
+        "name": "United States v Alaska",
+        "slug": "united-states-v-alaska"
+      }
+    ],
+    "related": [],
+    "status": "published",
+    "author": {
+      "name": "The Legal Circle",
+      "type": "Organization",
+      "url": "https://thelegalcircle.ca/editorial/"
+    },
+    "published": "2026-11-02T21:58:30Z",
+    "modified": "2026-11-02T21:58:30Z",
+    "featuredImage": {
+      "url": "/assets/the-legal-circle-social-card.png",
+      "alt": "The Legal Circle - Connect. Contribute. Grow.",
+      "width": 1200,
+      "height": 630,
+      "showInArticle": false
+    },
+    "social": {
+      "title": "Alaska Election Lawsuit Dismissed: Why Ballot Secrecy Defeated DOJ’s Proposed Remedy",
+      "description": "A judge dismissed DOJ’s Alaska Senate election lawsuit for lack of standing. The ruling addresses ballot secrecy and remedies, not proven voter confusion.",
+      "image": "/assets/the-legal-circle-social-card.png"
+    },
+    "correctionNote": "",
+    "primaryKeyword": "Alaska election lawsuit",
+    "secondaryKeywords": [
+      "ballot secrecy",
+      "Article III standing",
+      "redressability",
+      "same-name Senate candidates",
+      "DOJ Alaska appeal",
+      "United States v Alaska"
+    ]
+  },
+  {
     "slug": "trump-wsj-defamation-dismissal-actual-malice",
     "headline": "Trump’s Wall Street Journal Suit Dismissed: Why a Denial Was Not Enough",
     "seoTitle": "Trump WSJ Suit Dismissed: Actual Malice Explained",
