@@ -1,5 +1,314 @@
 [
   {
+    "slug": "like-company-google-ai-copyright-opinion",
+    "headline": "AI Training and Chatbot Answers Raise Different Copyright Questions, EU Adviser Says",
+    "seoTitle": "AI Copyright: EU Adviser Separates Training and Answers",
+    "metaDescription": "An EU court adviser distinguishes AI training from chatbot retrieval and output in Like Company v Google. The opinion is non-binding.",
+    "excerpt": "An AI system’s permission to learn from material does not necessarily answer whether it may retrieve and reproduce that material for a user.",
+    "contentType": "analysis",
+    "category": "AI & Technology",
+    "jurisdiction": "European Union; Canadian copyright-law comparison",
+    "tags": [
+      {
+        "name": "AI copyright EU opinion",
+        "slug": "ai-copyright-eu-opinion"
+      },
+      {
+        "name": "Like Company v Google",
+        "slug": "like-company-v-google"
+      },
+      {
+        "name": "Gemini copyright",
+        "slug": "gemini-copyright"
+      },
+      {
+        "name": "press publishers’ rights",
+        "slug": "press-publishers-rights"
+      },
+      {
+        "name": "retrieval augmented generation",
+        "slug": "retrieval-augmented-generation"
+      }
+    ],
+    "related": [
+      "brave-publishers-ai-copyright-paywall-lawsuits"
+    ],
+    "status": "published",
+    "author": {
+      "name": "The Legal Circle",
+      "type": "Organization",
+      "url": "https://thelegalcircle.ca/editorial/"
+    },
+    "published": "2026-11-03T22:04:08Z",
+    "modified": "2026-11-03T22:04:08Z",
+    "featuredImage": {
+      "url": "/assets/the-legal-circle-social-card.png",
+      "alt": "The Legal Circle - Connect. Contribute. Grow.",
+      "width": 1200,
+      "height": 630,
+      "showInArticle": false
+    },
+    "social": {
+      "title": "AI Training and Chatbot Answers Raise Different Copyright Questions, EU Adviser Says",
+      "description": "An EU court adviser distinguishes AI training from chatbot retrieval and output in Like Company v Google. The opinion is non-binding.",
+      "image": "/assets/the-legal-circle-social-card.png"
+    },
+    "correctionNote": "",
+    "primaryKeyword": "AI copyright EU opinion",
+    "secondaryKeywords": [
+      "Like Company v Google",
+      "Gemini copyright",
+      "press publishers’ rights",
+      "retrieval augmented generation"
+    ]
+  },
+  {
+    "slug": "jd-com-ceconomy-eu-foreign-subsidies-approval",
+    "headline": "JD.com’s CECONOMY Deal Receives Conditional EU Approval",
+    "seoTitle": "JD.com-CECONOMY Deal Gets Conditional EU Approval",
+    "metaDescription": "JD.com’s CECONOMY acquisition receives EU foreign-subsidies clearance subject to remedies. Closing remained prospective in reviewed sources.",
+    "excerpt": "Regulatory clearance can be the beginning of a company’s compliance work.",
+    "contentType": "analysis",
+    "category": "Legal Developments",
+    "jurisdiction": "European Union; Canadian cross-border transactions",
+    "tags": [
+      {
+        "name": "JD.com CECONOMY EU approval",
+        "slug": "jd-com-ceconomy-eu-approval"
+      },
+      {
+        "name": "Foreign Subsidies Regulation",
+        "slug": "foreign-subsidies-regulation"
+      },
+      {
+        "name": "acquisition remedies",
+        "slug": "acquisition-remedies"
+      },
+      {
+        "name": "MediaMarkt Saturn",
+        "slug": "mediamarkt-saturn"
+      },
+      {
+        "name": "EU deal clearance",
+        "slug": "eu-deal-clearance"
+      }
+    ],
+    "related": [],
+    "status": "published",
+    "author": {
+      "name": "The Legal Circle",
+      "type": "Organization",
+      "url": "https://thelegalcircle.ca/editorial/"
+    },
+    "published": "2026-11-03T22:04:08Z",
+    "modified": "2026-11-03T22:04:08Z",
+    "featuredImage": {
+      "url": "/assets/the-legal-circle-social-card.png",
+      "alt": "The Legal Circle - Connect. Contribute. Grow.",
+      "width": 1200,
+      "height": 630,
+      "showInArticle": false
+    },
+    "social": {
+      "title": "JD.com’s CECONOMY Deal Receives Conditional EU Approval",
+      "description": "JD.com’s CECONOMY acquisition receives EU foreign-subsidies clearance subject to remedies. Closing remained prospective in reviewed sources.",
+      "image": "/assets/the-legal-circle-social-card.png"
+    },
+    "correctionNote": "",
+    "primaryKeyword": "JD.com CECONOMY EU approval",
+    "secondaryKeywords": [
+      "Foreign Subsidies Regulation",
+      "acquisition remedies",
+      "MediaMarkt Saturn",
+      "EU deal clearance"
+    ]
+  },
+  {
+    "slug": "r-v-dube-supreme-court-new-trial",
+    "headline": "Supreme Court Confirms New Trial in R. v. Dubé",
+    "seoTitle": "R. v. Dubé: Supreme Court Confirms New Trial",
+    "metaDescription": "The Supreme Court of Canada dismissed the appeal in R. v. Dubé, confirming a new sexual-assault trial. Finalized oral reasons remain awaited.",
+    "excerpt": "The Supreme Court of Canada has confirmed a new sexual-assault trial in R. v. Dubé, 2026 SCC 36.",
+    "contentType": "analysis",
+    "category": "Legal Developments",
+    "jurisdiction": "Canada",
+    "tags": [
+      {
+        "name": "R v Dubé Supreme Court",
+        "slug": "r-v-dub-supreme-court"
+      },
+      {
+        "name": "2026 SCC 36",
+        "slug": "2026-scc-36"
+      },
+      {
+        "name": "reasonable steps consent",
+        "slug": "reasonable-steps-consent"
+      },
+      {
+        "name": "Crown appeal acquittal",
+        "slug": "crown-appeal-acquittal"
+      },
+      {
+        "name": "new sexual assault trial",
+        "slug": "new-sexual-assault-trial"
+      }
+    ],
+    "related": [],
+    "status": "published",
+    "author": {
+      "name": "The Legal Circle",
+      "type": "Organization",
+      "url": "https://thelegalcircle.ca/editorial/"
+    },
+    "published": "2026-11-03T22:04:08Z",
+    "modified": "2026-11-03T22:04:08Z",
+    "featuredImage": {
+      "url": "/assets/the-legal-circle-social-card.png",
+      "alt": "The Legal Circle - Connect. Contribute. Grow.",
+      "width": 1200,
+      "height": 630,
+      "showInArticle": false
+    },
+    "social": {
+      "title": "Supreme Court Confirms New Trial in R. v. Dubé",
+      "description": "The Supreme Court of Canada dismissed the appeal in R. v. Dubé, confirming a new sexual-assault trial. Finalized oral reasons remain awaited.",
+      "image": "/assets/the-legal-circle-social-card.png"
+    },
+    "correctionNote": "",
+    "primaryKeyword": "R v Dubé Supreme Court",
+    "secondaryKeywords": [
+      "2026 SCC 36",
+      "reasonable steps consent",
+      "Crown appeal acquittal",
+      "new sexual assault trial"
+    ]
+  },
+  {
+    "slug": "brave-publishers-ai-copyright-paywall-lawsuits",
+    "headline": "Publishers Sue Brave Over AI Content Supply and Alleged Paywall Bypass",
+    "seoTitle": "Publishers Sue Brave Over AI Content and Paywalls",
+    "metaDescription": "Newspapers allege Brave copied articles for AI services and enabled paywall bypass. Two New York lawsuits remain at the pleading stage.",
+    "excerpt": "AI copyright litigation is examining the businesses supplying content as well as the companies developing models.",
+    "contentType": "analysis",
+    "category": "AI & Technology",
+    "jurisdiction": "United States; Canadian AI copyright comparison",
+    "tags": [
+      {
+        "name": "Brave copyright lawsuit",
+        "slug": "brave-copyright-lawsuit"
+      },
+      {
+        "name": "New York Times Brave",
+        "slug": "new-york-times-brave"
+      },
+      {
+        "name": "AI content licensing",
+        "slug": "ai-content-licensing"
+      },
+      {
+        "name": "paywall circumvention",
+        "slug": "paywall-circumvention"
+      },
+      {
+        "name": "Brave Search API",
+        "slug": "brave-search-api"
+      }
+    ],
+    "related": [
+      "like-company-google-ai-copyright-opinion"
+    ],
+    "status": "published",
+    "author": {
+      "name": "The Legal Circle",
+      "type": "Organization",
+      "url": "https://thelegalcircle.ca/editorial/"
+    },
+    "published": "2026-11-03T22:04:08Z",
+    "modified": "2026-11-03T22:04:08Z",
+    "featuredImage": {
+      "url": "/assets/the-legal-circle-social-card.png",
+      "alt": "The Legal Circle - Connect. Contribute. Grow.",
+      "width": 1200,
+      "height": 630,
+      "showInArticle": false
+    },
+    "social": {
+      "title": "Publishers Sue Brave Over AI Content Supply and Alleged Paywall Bypass",
+      "description": "Newspapers allege Brave copied articles for AI services and enabled paywall bypass. Two New York lawsuits remain at the pleading stage.",
+      "image": "/assets/the-legal-circle-social-card.png"
+    },
+    "correctionNote": "",
+    "primaryKeyword": "Brave copyright lawsuit",
+    "secondaryKeywords": [
+      "New York Times Brave",
+      "AI content licensing",
+      "paywall circumvention",
+      "Brave Search API"
+    ]
+  },
+  {
+    "slug": "justice-committee-legal-aid-response-court-reforms",
+    "headline": "MPs Challenge Government’s Legal-Aid Response as Court Reforms Advance",
+    "seoTitle": "MPs Criticize Government’s Legal-Aid Response",
+    "metaDescription": "MPs demand clearer legal-aid commitments before court reforms advance. The November 3 report changes no funding or eligibility rules.",
+    "excerpt": "More courtroom capacity does not necessarily mean more access to representation.",
+    "contentType": "analysis",
+    "category": "Legal Developments",
+    "jurisdiction": "England and Wales; Canadian access-to-justice comparison",
+    "tags": [
+      {
+        "name": "Justice Committee legal aid response",
+        "slug": "justice-committee-legal-aid-response"
+      },
+      {
+        "name": "England Wales legal aid",
+        "slug": "england-wales-legal-aid"
+      },
+      {
+        "name": "legal aid eligibility",
+        "slug": "legal-aid-eligibility"
+      },
+      {
+        "name": "provider shortages",
+        "slug": "provider-shortages"
+      },
+      {
+        "name": "access to justice",
+        "slug": "access-to-justice"
+      }
+    ],
+    "related": [],
+    "status": "published",
+    "author": {
+      "name": "The Legal Circle",
+      "type": "Organization",
+      "url": "https://thelegalcircle.ca/editorial/"
+    },
+    "published": "2026-11-03T22:04:08Z",
+    "modified": "2026-11-03T22:04:08Z",
+    "featuredImage": {
+      "url": "/assets/the-legal-circle-social-card.png",
+      "alt": "The Legal Circle - Connect. Contribute. Grow.",
+      "width": 1200,
+      "height": 630,
+      "showInArticle": false
+    },
+    "social": {
+      "title": "MPs Challenge Government’s Legal-Aid Response as Court Reforms Advance",
+      "description": "MPs demand clearer legal-aid commitments before court reforms advance. The November 3 report changes no funding or eligibility rules.",
+      "image": "/assets/the-legal-circle-social-card.png"
+    },
+    "correctionNote": "",
+    "primaryKeyword": "Justice Committee legal aid response",
+    "secondaryKeywords": [
+      "England Wales legal aid",
+      "legal aid eligibility",
+      "provider shortages",
+      "access to justice"
+    ]
+  },
+  {
     "slug": "alaska-election-lawsuit-ballot-secrecy-standing",
     "headline": "Alaska Election Lawsuit Dismissed: Why Ballot Secrecy Defeated DOJ’s Proposed Remedy",
     "seoTitle": "Alaska Election Lawsuit Dismissed Over Ballot Secrecy",
