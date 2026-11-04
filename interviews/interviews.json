@@ -194,5 +194,33 @@
       "role": "Partner and Calgary Office Leader · Dolden Wallace Folick LLP",
       "portrait": "/assets/david-girard.jpg"
     }
+  },
+  {
+    "slug": "filip-szadurski-employment-law",
+    "path": "/interviews/filip-szadurski-employment-law/",
+    "status": "published",
+    "contentType": "interview",
+    "format": "written",
+    "video": null,
+    "headline": "Building a Law Firm Without Losing Sight of Family",
+    "seoTitle": "Interview: Filip Szadurski on Building a Firm Around Family | The Legal Circle",
+    "metaDescription": "Filip Szadurski on moving from kitchens to law, launching Szadurski Law, building a practice around family and earning client referrals.",
+    "excerpt": "Six questions with Filip Szadurski on going from kitchens to law, launching a firm around family and building client relationships.",
+    "published": "2026-11-04T03:15:01Z",
+    "modified": "2026-11-04T03:15:01Z",
+    "interviewer": {
+      "name": "Adele Salikhova",
+      "url": "https://thelegalcircle.ca/about/adele-salikhova/"
+    },
+    "author": {
+      "name": "Adele Salikhova",
+      "type": "Person",
+      "url": "https://thelegalcircle.ca/about/adele-salikhova/"
+    },
+    "guest": {
+      "name": "Filip Szadurski",
+      "role": "Employment lawyer · Founder, Szadurski Law",
+      "portrait": "/assets/filip-szadurski.png"
+    }
   }
 ]
