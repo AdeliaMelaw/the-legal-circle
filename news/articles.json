@@ -1,5 +1,193 @@
 [
   {
+    "slug": "california-climate-disclosure-ninth-circuit-scope-3",
+    "headline": "Ninth Circuit Splits California Climate Disclosure Rules in First Amendment Appeal",
+    "seoTitle": "California Climate Disclosure: Ninth Circuit Splits Ruling",
+    "metaDescription": "The Ninth Circuit splits preliminary relief for California’s climate disclosures, leaving Scope 1 and 2 reporting outside the relief granted on appeal.",
+    "excerpt": "California’s corporate climate disclosure laws did not rise or fall together. In a November 9 opinion, the U.S. Court of Appeals for the Ninth Circuit distinguished emissions from a company’s own operations and purchased energy from the broader estimates it must make about its value chain.",
+    "contentType": "analysis",
+    "category": "Legal Developments",
+    "jurisdiction": "United States; Canadian business implications",
+    "tags": [
+      {
+        "name": "California climate disclosure ruling",
+        "slug": "california-climate-disclosure-ruling"
+      },
+      {
+        "name": "SB 253",
+        "slug": "sb-253"
+      },
+      {
+        "name": "SB 261",
+        "slug": "sb-261"
+      },
+      {
+        "name": "Scope 3 emissions",
+        "slug": "scope-3-emissions"
+      },
+      {
+        "name": "Ninth Circuit",
+        "slug": "ninth-circuit"
+      },
+      {
+        "name": "preliminary injunction",
+        "slug": "preliminary-injunction"
+      }
+    ],
+    "related": [],
+    "status": "published",
+    "author": {
+      "name": "The Legal Circle",
+      "type": "Organization",
+      "url": "https://thelegalcircle.ca/editorial/"
+    },
+    "published": "2026-11-10T17:50:25Z",
+    "modified": "2026-11-10T17:50:25Z",
+    "featuredImage": {
+      "url": "/assets/the-legal-circle-social-card.png",
+      "alt": "The Legal Circle - Connect. Contribute. Grow.",
+      "width": 1200,
+      "height": 630,
+      "showInArticle": false
+    },
+    "social": {
+      "title": "Ninth Circuit Splits California Climate Disclosure Rules in First Amendment Appeal",
+      "description": "The Ninth Circuit splits preliminary relief for California’s climate disclosures, leaving Scope 1 and 2 reporting outside the relief granted on appeal.",
+      "image": "/assets/the-legal-circle-social-card.png"
+    },
+    "correctionNote": "",
+    "primaryKeyword": "California climate disclosure ruling",
+    "secondaryKeywords": [
+      "SB 253",
+      "SB 261",
+      "Scope 3 emissions",
+      "Ninth Circuit",
+      "preliminary injunction"
+    ]
+  },
+  {
+    "slug": "supreme-court-canada-firearms-regulation-appeals",
+    "headline": "Supreme Court Firearms Appeals Put Federal Regulation-Making Power to the Test",
+    "seoTitle": "Supreme Court of Canada Hears Firearms Regulation Appeals",
+    "metaDescription": "Canada’s Supreme Court considers four challenges to the 2020 firearms regulation, including the scope of federal power under Criminal Code section 117.15.",
+    "excerpt": "When a regulation changes which conduct can carry criminal consequences, how closely should a court examine the authority used to make it? That question is before the Supreme Court of Canada in four appeals challenging Ottawa’s 2020 firearms regulation.",
+    "contentType": "analysis",
+    "category": "Legal Developments",
+    "jurisdiction": "Canada",
+    "tags": [
+      {
+        "name": "Supreme Court Canada firearms appeal",
+        "slug": "supreme-court-canada-firearms-appeal"
+      },
+      {
+        "name": "2020 firearms regulation",
+        "slug": "2020-firearms-regulation"
+      },
+      {
+        "name": "Criminal Code section 117.15",
+        "slug": "criminal-code-section-117-15"
+      },
+      {
+        "name": "delegated legislation",
+        "slug": "delegated-legislation"
+      },
+      {
+        "name": "Governor in Council",
+        "slug": "governor-in-council"
+      }
+    ],
+    "related": [],
+    "status": "published",
+    "author": {
+      "name": "The Legal Circle",
+      "type": "Organization",
+      "url": "https://thelegalcircle.ca/editorial/"
+    },
+    "published": "2026-11-10T17:50:25Z",
+    "modified": "2026-11-10T17:50:25Z",
+    "featuredImage": {
+      "url": "/assets/the-legal-circle-social-card.png",
+      "alt": "The Legal Circle - Connect. Contribute. Grow.",
+      "width": 1200,
+      "height": 630,
+      "showInArticle": false
+    },
+    "social": {
+      "title": "Supreme Court Firearms Appeals Put Federal Regulation-Making Power to the Test",
+      "description": "Canada’s Supreme Court considers four challenges to the 2020 firearms regulation, including the scope of federal power under Criminal Code section 117.15.",
+      "image": "/assets/the-legal-circle-social-card.png"
+    },
+    "correctionNote": "",
+    "primaryKeyword": "Supreme Court Canada firearms appeal",
+    "secondaryKeywords": [
+      "2020 firearms regulation",
+      "Criminal Code section 117.15",
+      "delegated legislation",
+      "Governor in Council"
+    ]
+  },
+  {
+    "slug": "canada-us-surtax-remission-november-2026",
+    "headline": "Canada Extends U.S. Surtax Relief to 2028, With Earlier Cutoffs for Some Goods",
+    "seoTitle": "Canada Extends U.S. Surtax Relief: Key Import Dates",
+    "metaDescription": "Canada extends qualifying U.S. surtax remission to June 2028. See the November changes and earlier cutoffs for certain trailers, aluminum and paperboard.",
+    "excerpt": "Canadian importers have a longer window to claim certain U.S. surtax relief, but some products will lose access to that relief much sooner. For purchasing teams, the date to check is the one that applies to the particular shipment - not simply the headline extension to 2028.",
+    "contentType": "analysis",
+    "category": "Legal Developments",
+    "jurisdiction": "Canada",
+    "tags": [
+      {
+        "name": "Canada U.S. surtax remission",
+        "slug": "canada-u-s-surtax-remission"
+      },
+      {
+        "name": "Canadian tariff relief",
+        "slug": "canadian-tariff-relief"
+      },
+      {
+        "name": "United States Surtax Remission Order",
+        "slug": "united-states-surtax-remission-order"
+      },
+      {
+        "name": "Schedule 7 exclusions",
+        "slug": "schedule-7-exclusions"
+      },
+      {
+        "name": "importer compliance",
+        "slug": "importer-compliance"
+      }
+    ],
+    "related": [],
+    "status": "published",
+    "author": {
+      "name": "The Legal Circle",
+      "type": "Organization",
+      "url": "https://thelegalcircle.ca/editorial/"
+    },
+    "published": "2026-11-10T17:50:25Z",
+    "modified": "2026-11-10T17:50:25Z",
+    "featuredImage": {
+      "url": "/assets/the-legal-circle-social-card.png",
+      "alt": "The Legal Circle - Connect. Contribute. Grow.",
+      "width": 1200,
+      "height": 630,
+      "showInArticle": false
+    },
+    "social": {
+      "title": "Canada Extends U.S. Surtax Relief to 2028, With Earlier Cutoffs for Some Goods",
+      "description": "Canada extends qualifying U.S. surtax remission to June 2028. See the November changes and earlier cutoffs for certain trailers, aluminum and paperboard.",
+      "image": "/assets/the-legal-circle-social-card.png"
+    },
+    "correctionNote": "",
+    "primaryKeyword": "Canada U.S. surtax remission",
+    "secondaryKeywords": [
+      "Canadian tariff relief",
+      "United States Surtax Remission Order",
+      "Schedule 7 exclusions",
+      "importer compliance"
+    ]
+  },
+  {
     "slug": "sgs-supreme-court-federal-labour-jurisdiction",
     "headline": "When a Contractor’s Employees Fall Under Federal Labour Law: Supreme Court Rules on SGS",
     "seoTitle": "SGS Ruling: Federal Labour Jurisdiction for Contractors",
