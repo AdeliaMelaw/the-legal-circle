@@ -1,5 +1,259 @@
 [
   {
+    "slug": "eu-digital-fairness-act-proposal-november-2026",
+    "headline": "EU Proposes Digital Fairness Act: What Would Change for Apps, Ads and Subscriptions?",
+    "seoTitle": "EU Digital Fairness Act: Proposed Rules for Apps and Ads",
+    "metaDescription": "The EU’s November 11 Digital Fairness Act proposal targets manipulative design, unfair targeting and subscription practices. Here’s what would change.",
+    "excerpt": "An app can influence what a consumer spends long before checkout. It can make a free trial easy to start and hard to cancel, obscure the real price of an in-game purchase, or keep someone engaged with prompts they cannot easily turn off. The European Commission’s Digital Fairness Act proposal would give regulators more specific rules for examining those choices.",
+    "contentType": "analysis",
+    "category": "Legal Developments",
+    "jurisdiction": "European Union; Canadian business implications",
+    "tags": [
+      {
+        "name": "EU Digital Fairness Act proposal",
+        "slug": "eu-digital-fairness-act-proposal"
+      },
+      {
+        "name": "dark patterns",
+        "slug": "dark-patterns"
+      },
+      {
+        "name": "EU consumer protection",
+        "slug": "eu-consumer-protection"
+      },
+      {
+        "name": "personalised advertising",
+        "slug": "personalised-advertising"
+      },
+      {
+        "name": "subscription cancellation",
+        "slug": "subscription-cancellation"
+      },
+      {
+        "name": "Consumer Protection Cooperation regulation",
+        "slug": "consumer-protection-cooperation-regulation"
+      }
+    ],
+    "related": [],
+    "status": "published",
+    "author": {
+      "name": "The Legal Circle",
+      "type": "Organization",
+      "url": "https://thelegalcircle.ca/editorial/"
+    },
+    "published": "2026-11-12T15:50:10Z",
+    "modified": "2026-11-12T15:50:10Z",
+    "featuredImage": {
+      "url": "/assets/the-legal-circle-social-card.png",
+      "alt": "The Legal Circle - Connect. Contribute. Grow.",
+      "width": 1200,
+      "height": 630,
+      "showInArticle": false
+    },
+    "social": {
+      "title": "EU Proposes Digital Fairness Act: What Would Change for Apps, Ads and Subscriptions?",
+      "description": "The EU’s November 11 Digital Fairness Act proposal targets manipulative design, unfair targeting and subscription practices. Here’s what would change.",
+      "image": "/assets/the-legal-circle-social-card.png"
+    },
+    "correctionNote": "",
+    "primaryKeyword": "EU Digital Fairness Act proposal",
+    "secondaryKeywords": [
+      "dark patterns",
+      "EU consumer protection",
+      "personalised advertising",
+      "subscription cancellation",
+      "Consumer Protection Cooperation regulation"
+    ]
+  },
+  {
+    "slug": "us-supreme-court-h2a-enforcement-sun-valley-orchards",
+    "headline": "U.S. Supreme Court Weighs Who Can Decide H-2A Penalties and Back Wages",
+    "seoTitle": "U.S. Supreme Court Hears H-2A Enforcement Challenge",
+    "metaDescription": "The U.S. Supreme Court weighs whether the Labor Department can adjudicate H-2A penalties and back wages in-house. No judgment has issued.",
+    "excerpt": "When the U.S. Department of Labor seeks back wages and civil penalties from a farm that participates in the H-2A temporary agricultural worker program, can the department adjudicate the case itself? Or must it ask a federal court to decide?",
+    "contentType": "analysis",
+    "category": "Legal Developments",
+    "jurisdiction": "United States",
+    "tags": [
+      {
+        "name": "H-2A Supreme Court enforcement case",
+        "slug": "h-2a-supreme-court-enforcement-case"
+      },
+      {
+        "name": "Sun Valley Orchards",
+        "slug": "sun-valley-orchards"
+      },
+      {
+        "name": "Department of Labor",
+        "slug": "department-of-labor"
+      },
+      {
+        "name": "Article III",
+        "slug": "article-iii"
+      },
+      {
+        "name": "SEC v. Jarkesy",
+        "slug": "sec-v-jarkesy"
+      },
+      {
+        "name": "farmworker back wages",
+        "slug": "farmworker-back-wages"
+      }
+    ],
+    "related": [],
+    "status": "published",
+    "author": {
+      "name": "The Legal Circle",
+      "type": "Organization",
+      "url": "https://thelegalcircle.ca/editorial/"
+    },
+    "published": "2026-11-12T15:50:10Z",
+    "modified": "2026-11-12T15:50:10Z",
+    "featuredImage": {
+      "url": "/assets/the-legal-circle-social-card.png",
+      "alt": "The Legal Circle - Connect. Contribute. Grow.",
+      "width": 1200,
+      "height": 630,
+      "showInArticle": false
+    },
+    "social": {
+      "title": "U.S. Supreme Court Weighs Who Can Decide H-2A Penalties and Back Wages",
+      "description": "The U.S. Supreme Court weighs whether the Labor Department can adjudicate H-2A penalties and back wages in-house. No judgment has issued.",
+      "image": "/assets/the-legal-circle-social-card.png"
+    },
+    "correctionNote": "",
+    "primaryKeyword": "H-2A Supreme Court enforcement case",
+    "secondaryKeywords": [
+      "Sun Valley Orchards",
+      "Department of Labor",
+      "Article III",
+      "SEC v. Jarkesy",
+      "farmworker back wages"
+    ]
+  },
+  {
+    "slug": "uk-supreme-court-upp-divestment-compensation-appeal",
+    "headline": "UK Supreme Court Hears Compensation Appeal Over National-Security Forced Sale",
+    "seoTitle": "UK Supreme Court Hears Forced-Sale Compensation Appeal",
+    "metaDescription": "The UK Supreme Court considers market-value compensation after a national-security order forced the sale of telecoms company Upp. Judgment is pending.",
+    "excerpt": "A government can order an investor to sell a business on national-security grounds. If the investor says the forced sale produced less than market value, who should bear the difference? The UK Supreme Court heard that question on November 10, 2026, in a case arising from the divestment of telecoms company Upp.",
+    "contentType": "analysis",
+    "category": "Legal Developments",
+    "jurisdiction": "United Kingdom",
+    "tags": [
+      {
+        "name": "national security divestment compensation",
+        "slug": "national-security-divestment-compensation"
+      },
+      {
+        "name": "Upp forced sale",
+        "slug": "upp-forced-sale"
+      },
+      {
+        "name": "L1T FM Holdings",
+        "slug": "l1t-fm-holdings"
+      },
+      {
+        "name": "National Security and Investment Act",
+        "slug": "national-security-and-investment-act"
+      },
+      {
+        "name": "Article 1 Protocol 1",
+        "slug": "article-1-protocol-1"
+      }
+    ],
+    "related": [],
+    "status": "published",
+    "author": {
+      "name": "The Legal Circle",
+      "type": "Organization",
+      "url": "https://thelegalcircle.ca/editorial/"
+    },
+    "published": "2026-11-12T15:50:10Z",
+    "modified": "2026-11-12T15:50:10Z",
+    "featuredImage": {
+      "url": "/assets/the-legal-circle-social-card.png",
+      "alt": "The Legal Circle - Connect. Contribute. Grow.",
+      "width": 1200,
+      "height": 630,
+      "showInArticle": false
+    },
+    "social": {
+      "title": "UK Supreme Court Hears Compensation Appeal Over National-Security Forced Sale",
+      "description": "The UK Supreme Court considers market-value compensation after a national-security order forced the sale of telecoms company Upp. Judgment is pending.",
+      "image": "/assets/the-legal-circle-social-card.png"
+    },
+    "correctionNote": "",
+    "primaryKeyword": "national security divestment compensation",
+    "secondaryKeywords": [
+      "Upp forced sale",
+      "L1T FM Holdings",
+      "National Security and Investment Act",
+      "Article 1 Protocol 1"
+    ]
+  },
+  {
+    "slug": "latham-associate-ai-impact-award-2027",
+    "headline": "Latham Sets Aside US$1 Million for Associates’ AI Contributions in 2027",
+    "seoTitle": "Latham Sets US$1M AI Award Pool for Associates",
+    "metaDescription": "Latham & Watkins announces a US$1 million award pool for associates’ AI contributions in 2027, raising questions about how firms measure and reward impact.",
+    "excerpt": "When an associate builds an AI workflow that a whole practice group can use, who gets credit for the work? Latham & Watkins has put a dollar figure behind that question: US$1 million for its 2027 Associate AI Impact Award pool.",
+    "contentType": "analysis",
+    "category": "Business & Practice Development",
+    "jurisdiction": "United States",
+    "tags": [
+      {
+        "name": "Latham associate AI award",
+        "slug": "latham-associate-ai-award"
+      },
+      {
+        "name": "legal AI incentives",
+        "slug": "legal-ai-incentives"
+      },
+      {
+        "name": "law firm associate compensation",
+        "slug": "law-firm-associate-compensation"
+      },
+      {
+        "name": "AI workflow adoption",
+        "slug": "ai-workflow-adoption"
+      },
+      {
+        "name": "Latham & Watkins",
+        "slug": "latham-watkins"
+      }
+    ],
+    "related": [],
+    "status": "published",
+    "author": {
+      "name": "The Legal Circle",
+      "type": "Organization",
+      "url": "https://thelegalcircle.ca/editorial/"
+    },
+    "published": "2026-11-12T15:50:10Z",
+    "modified": "2026-11-12T15:50:10Z",
+    "featuredImage": {
+      "url": "/assets/the-legal-circle-social-card.png",
+      "alt": "The Legal Circle - Connect. Contribute. Grow.",
+      "width": 1200,
+      "height": 630,
+      "showInArticle": false
+    },
+    "social": {
+      "title": "Latham Sets Aside US$1 Million for Associates’ AI Contributions in 2027",
+      "description": "Latham & Watkins announces a US$1 million award pool for associates’ AI contributions in 2027, raising questions about how firms measure and reward impact.",
+      "image": "/assets/the-legal-circle-social-card.png"
+    },
+    "correctionNote": "",
+    "primaryKeyword": "Latham associate AI award",
+    "secondaryKeywords": [
+      "legal AI incentives",
+      "law firm associate compensation",
+      "AI workflow adoption",
+      "Latham & Watkins"
+    ]
+  },
+  {
     "slug": "california-climate-disclosure-ninth-circuit-scope-3",
     "headline": "Ninth Circuit Splits California Climate Disclosure Rules in First Amendment Appeal",
     "seoTitle": "California Climate Disclosure: Ninth Circuit Splits Ruling",
